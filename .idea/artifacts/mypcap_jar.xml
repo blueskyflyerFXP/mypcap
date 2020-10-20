@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mypcap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mypcap_jar</output-path>
+    <root id="archive" name="mypcap.jar">
+      <element id="module-output" name="mypcap" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../软件资源/jpcap/jpcap.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

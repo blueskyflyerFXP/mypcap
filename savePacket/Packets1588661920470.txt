@@ -1,0 +1,84 @@
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:172a:9101:48e3:7368:5c1
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:172a:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 1
+	帧序列(Frame Number): 1
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-05 14:58:40.1588661920474 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588661916
+	时间戳——微秒(Timestamp Microsecond): 322227
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): APP_REQUEST(1)
+	源MAC地址(Sender MAC address): 14:d1:69:da:d1:c9
+	源IP地址(Sender IP address): /192.168.43.1
+	目的MAC地址(Target MAC address): 00:00:00:00:00:00
+	目的IP地址(Target IP address): /192.168.43.99
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:172a:9101:48e3:7368:5c1
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:172a:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 2
+	帧序列(Frame Number): 2
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-05 14:58:40.1588661920498 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588661916
+	时间戳——微秒(Timestamp Microsecond): 322247
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): ARP_REPLY(2)
+	源MAC地址(Sender MAC address): 70:c9:4e:06:37:2a
+	源IP地址(Sender IP address): /192.168.43.99
+	目的MAC地址(Target MAC address): 14:d1:69:da:d1:c9
+	目的IP地址(Target IP address): /192.168.43.1
+

@@ -1,0 +1,3225 @@
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 1
+	帧序列(Frame Number): 1
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038508 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 67331
+	帧长度(Frame Length): 129bytes (1032 bits)
+	捕获的长度(Capture Length): 129bytes (1032 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 115
+	标识(Identification): 0x0(0)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 52
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 183.232.93.21
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 8000
+	目的端口(Destination Port): 4007
+	数据包长度(Length): 95
+	数据(Data):
+		数据长度(Data Length): 87bytes
+		内容（content）: 0x0239250081ecbca44e76a600000031f030876912fa4431de4c25aca1a74bc03aec831acd6a573241641572cad104ae2655ec59248a473859e7ca93a1f3ea1e1e660cd24612a7e6ec566210e69c551265f36bda2d93e103
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 2
+	帧序列(Frame Number): 2
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038508 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 130102
+	帧长度(Frame Length): 55bytes (440 bits)
+	捕获的长度(Capture Length): 55bytes (440 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 41
+	标识(Identification): 0x3958(14680)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.222
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 53331
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 3565680685
+	确认号(Acknowledgment Number): 2494259868
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 513
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 1bytes
+		内容（content）: 0x00
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 3
+	帧序列(Frame Number): 3
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038508 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 233429
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0xffa7(65447)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.222
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 53331
+	顺序号(Sequence Number): 2494259868
+	确认号(Acknowledgment Number): 3565680686
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 131
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 4
+	帧序列(Frame Number): 4
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038509 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 276807
+	帧长度(Frame Length): 66bytes (528 bits)
+	捕获的长度(Capture Length): 66bytes (528 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 66 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 52
+	标识(Identification): 0x39b3(14771)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.153
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54003
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 554001054
+	确认号(Acknowledgment Number): 0
+	头部长度(Header Length): 66 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Not Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 64240
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 5
+	帧序列(Frame Number): 5
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038509 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 377240
+	帧长度(Frame Length): 62bytes (496 bits)
+	捕获的长度(Capture Length): 62bytes (496 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 62 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 48
+	标识(Identification): 0x0(0)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.153
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54003
+	顺序号(Sequence Number): 983959819
+	确认号(Acknowledgment Number): 554001055
+	头部长度(Header Length): 62 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 14600
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 6
+	帧序列(Frame Number): 6
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038510 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 377348
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x39b4(14772)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.153
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54003
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 554001055
+	确认号(Acknowledgment Number): 983959820
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 515
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 7
+	帧序列(Frame Number): 7
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038510 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 377528
+	帧长度(Frame Length): 336bytes (2688 bits)
+	捕获的长度(Capture Length): 336bytes (2688 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 322
+	标识(Identification): 0x39b5(14773)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.153
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54003
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 554001055
+	确认号(Acknowledgment Number): 983959820
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 515
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 282bytes
+		内容（content）: 0x504f5354202f636c6f756471756572792e70687020485454502f312e310d0a557365722d4167656e743a20506f73745f4d756c7469706172740d0a486f73743a203131312e372e36382e3135330d0a4163636570743a202a2f2a0d0a507261676d613a206e6f2d63616368650d0a582d3336302d436c6f75642d53656375726974792d446573633a205363616e20537573706963696f75732046696c650d0a782d3336302d7665723a20340d0a436f6e74656e742d4c656e6774683a203830320d0a436f6e74656e742d547970653a206d756c7469706172742f666f726d2d646174613b20626f756e646172793d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d3935386133383239623638650d0a0d0a
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 8
+	帧序列(Frame Number): 8
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038510 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 479661
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0xe893(59539)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.153
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54003
+	顺序号(Sequence Number): 983959820
+	确认号(Acknowledgment Number): 554001337
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 123
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 9
+	帧序列(Frame Number): 9
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038511 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 479719
+	帧长度(Frame Length): 856bytes (6848 bits)
+	捕获的长度(Capture Length): 856bytes (6848 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 842
+	标识(Identification): 0x39b6(14774)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.153
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54003
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 554001337
+	确认号(Acknowledgment Number): 983959820
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 515
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 802bytes
+		内容（content）: 0x2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d3935386133383239623638650d0a436f6e74656e742d446973706f736974696f6e3a20666f726d2d646174613b206e616d653d226d220d0a0d0a0a040290696e000100006285bfda1e3ec9503f7fb6efdaf05301c0e9f2c3c7a38b7a45ecd1ca666d95904d95d8382df60e6b3636b5cb26b12ee956d8ed4df431496aa068cd04794cb17c22703ea13ee7d30175b9a1e8b5fc8e09a8f2d348999773399f908fcc4d99d002793ab917c421bac48deb9366086da93b1792557392d7ec75b7f644d6e0e050902c5f832fb571957c1d43102a34a107e0f22a2f76809e8a0392c9a2baaf441c5a87c0a64650f3c82f5ec702ffd7b9f59f652802c155a3f777de1d677c0fbb6c2290d24adf47c1d0fea4acd8bc04e93db780f8be0abe96c6ec4bf106e2824209d8ef15de1ec30c2322ab25e2808841314936d143129ea9e2bebf200555f9f7dc47ea455fde383f674b72df1c90605ae14cc70a1d02043ad9a0f3886c9d15e445c5799ba12e61da7796514bb5a5dc95705989f5674affadc374d9b0377804b9714ad9a86e612b0165987a3972982ea3f5a94a2f7bd927273293c06818aa727d3d2af5d7082a880d3cf299dc4658534931c26ac7e47fe849121455c7b7e7d1892e8e094e42492b763ea77556e345eec9ef118e658c65f7089174760f92c1cebfbb90ca13996821833fac29146b2f1d33b52f85d151bac804ae228d8f2d21bdc36148a4b478a2ebd3abd983705a4694544355036f5fef9b79fb0aa454a16c2dcad3a5555c00423ea9502e010e8ae6908a5d57722111fa0687c1efc6b6496c9952f5717f8caf85a5ed194934458a7c7530ccbc14528a5b4873a8f00da3c91d56d7f6c1912ce5d30927e2cbcf2c241bd82419711b51610af7cd3ea068d1d44e587f3db0cfc76a7e06fcc2604a5428fdee1ade5abf0877d8fc83796cb4019044accc53a087498a448e30b790921777a0f6fd17d9f947f9f7ed0419263133d0ef59891e00a53521ab1bb4af2fa3c5f58bca102f100d0a2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d3935386133383239623638652d2d0d0a
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 10
+	帧序列(Frame Number): 10
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038512 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 597272
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0xe894(59540)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.153
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54003
+	顺序号(Sequence Number): 983959820
+	确认号(Acknowledgment Number): 554002139
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 135
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 11
+	帧序列(Frame Number): 11
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038512 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 616580
+	帧长度(Frame Length): 422bytes (3376 bits)
+	捕获的长度(Capture Length): 422bytes (3376 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 408
+	标识(Identification): 0xe895(59541)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.153
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54003
+	顺序号(Sequence Number): 983959820
+	确认号(Acknowledgment Number): 554002139
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 135
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 368bytes
+		内容（content）: 0x485454502f312e3120323030204f4b0d0a5365727665723a206e67696e780d0a446174653a204d6f6e2c203034204d617920323032302030343a35323a353320474d540d0a436f6e74656e742d547970653a206170706c69636174696f6e2f6f637465742d73747265616d0d0a5472616e736665722d456e636f64696e673a206368756e6b65640d0a436f6e6e656374696f6e3a20636c6f73650d0a43616368652d436f6e74726f6c3a206e6f2d63616368650d0a707261676d613a206e6f2d63616368650d0a0d0a61310d0a0a040097696e00010000110250dabd451720420d16e1be52ec94301918852c91db766540c5cae5188a370cea64a83b0f3e3f3144652f0f77cc20ed5bb4c2701c3d5bb1176d9c08c29e27344c1634b62ce3a3dd7f799f0a3297152e80e7069b079f3cff52a70ba206a206a206a206a206a206a206a206a206a206a206a206a206a206a206a2069b02a218a23fa33fa23fa23fa23fa23f9b3f9b3fa23fa23f983b980d0a
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 12
+	帧序列(Frame Number): 12
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038513 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 616793
+	帧长度(Frame Length): 59bytes (472 bits)
+	捕获的长度(Capture Length): 59bytes (472 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 45
+	标识(Identification): 0xe896(59542)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.153
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54003
+	顺序号(Sequence Number): 983960188
+	确认号(Acknowledgment Number): 554002139
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Set
+	窗口大小(Window size Value): 135
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 5bytes
+		内容（content）: 0x300d0a0d0a
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 13
+	帧序列(Frame Number): 13
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038513 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 616879
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x39b7(14775)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.153
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54003
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 554002139
+	确认号(Acknowledgment Number): 983960194
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 513
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 14
+	帧序列(Frame Number): 14
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038514 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 616944
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x39b8(14776)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.153
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54003
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 554002139
+	确认号(Acknowledgment Number): 983960194
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Set
+	窗口大小(Window size Value): 513
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 15
+	帧序列(Frame Number): 15
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038514 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567973
+	时间戳——微秒(Timestamp Microsecond): 697011
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0xe897(59543)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.153
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54003
+	顺序号(Sequence Number): 983960194
+	确认号(Acknowledgment Number): 554002140
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 135
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 16
+	帧序列(Frame Number): 16
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038515 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567978
+	时间戳——微秒(Timestamp Microsecond): 621390
+	帧长度(Frame Length): 74bytes (592 bits)
+	捕获的长度(Capture Length): 74bytes (592 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 60
+	标识(Identification): 0xa7a3(42915)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 64
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): ICMP(0x0001)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 192.34.56.23
+Internet Control Message Protocol
+	类型(Type): 8(Echo (ping) request)
+	代码(Code): 0
+	校验和(Checknum): 0x4f4d
+	标识(Identifier): 1(0x1)
+	序列号(Sequence number): 12(0xc)
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 17
+	帧序列(Frame Number): 17
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038515 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567983
+	时间戳——微秒(Timestamp Microsecond): 353886
+	帧长度(Frame Length): 74bytes (592 bits)
+	捕获的长度(Capture Length): 74bytes (592 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 60
+	标识(Identification): 0xa7a4(42916)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 64
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): ICMP(0x0001)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 192.34.56.23
+Internet Control Message Protocol
+	类型(Type): 8(Echo (ping) request)
+	代码(Code): 0
+	校验和(Checknum): 0x4e4d
+	标识(Identifier): 1(0x1)
+	序列号(Sequence number): 13(0xd)
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 18
+	帧序列(Frame Number): 18
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038516 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567983
+	时间戳——微秒(Timestamp Microsecond): 786872
+	帧长度(Frame Length): 74bytes (592 bits)
+	捕获的长度(Capture Length): 74bytes (592 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 2
+		最小时延(Delay): false
+		最大吞吐量(Through): true
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 60
+	标识(Identification): 0x3a9e(15006)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 41
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): ICMP(0x0001)
+	源IP地址(Source IPAdress): 192.34.56.23
+	目标IP地址(Destination IPAdress): 192.168.43.99
+Internet Control Message Protocol
+	类型(Type): 0(Echo (ping) reply)
+	代码(Code): 0
+	校验和(Checknum): 0x4e55
+	标识(Identifier): 1(0x1)
+	序列号(Sequence number): 13(0xd)
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 19
+	帧序列(Frame Number): 19
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038517 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567984
+	时间戳——微秒(Timestamp Microsecond): 359188
+	帧长度(Frame Length): 74bytes (592 bits)
+	捕获的长度(Capture Length): 74bytes (592 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 60
+	标识(Identification): 0xa7a5(42917)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 64
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): ICMP(0x0001)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 192.34.56.23
+Internet Control Message Protocol
+	类型(Type): 8(Echo (ping) request)
+	代码(Code): 0
+	校验和(Checknum): 0x4d4d
+	标识(Identifier): 1(0x1)
+	序列号(Sequence number): 14(0xe)
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 20
+	帧序列(Frame Number): 20
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038517 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 392914
+	帧长度(Frame Length): 83bytes (664 bits)
+	捕获的长度(Capture Length): 83bytes (664 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 69
+	标识(Identification): 0xe41c(58396)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 101.198.199.200
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 55342
+	目的端口(Destination Port): 53
+	数据包长度(Length): 49
+	数据(Data):
+		数据长度(Data Length): 41bytes
+		内容（content）: 0x9b620100000100000000000006636f6e6669670670696e79696e05736f676f7503636f6d0000010001
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 21
+	帧序列(Frame Number): 21
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038518 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 393254
+	帧长度(Frame Length): 83bytes (664 bits)
+	捕获的长度(Capture Length): 83bytes (664 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 69
+	标识(Identification): 0xe41d(58397)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 101.198.199.200
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 53509
+	目的端口(Destination Port): 53
+	数据包长度(Length): 49
+	数据(Data):
+		数据长度(Data Length): 41bytes
+		内容（content）: 0x48cb0100000100000000000006636f6e6669670670696e79696e05736f676f7503636f6d00001c0001
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 22
+	帧序列(Frame Number): 22
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038518 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 472710
+	帧长度(Frame Length): 176bytes (1408 bits)
+	捕获的长度(Capture Length): 176bytes (1408 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 162
+	标识(Identification): 0xe41c(58396)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 112
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 101.198.199.200
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 53
+	目的端口(Destination Port): 55342
+	数据包长度(Length): 142
+	数据(Data):
+		数据长度(Data Length): 134bytes
+		内容（content）: 0x9b628180000100040000000106636f6e6669670670696e79696e05736f676f7503636f6d0000010001c00c00010001000001180004d39feb64c00c000100010000011800046df41723c00c00010001000001180004d39feb1ec00c000100010000011800046df4177b026e730a736572766572666c6167000001000100000e1000047f000001
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 23
+	帧序列(Frame Number): 23
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038519 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 518567
+	帧长度(Frame Length): 83bytes (664 bits)
+	捕获的长度(Capture Length): 83bytes (664 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 69
+	标识(Identification): 0x13ab(5035)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 114.114.114.114
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 53509
+	目的端口(Destination Port): 53
+	数据包长度(Length): 49
+	数据(Data):
+		数据长度(Data Length): 41bytes
+		内容（content）: 0x48cb0100000100000000000006636f6e6669670670696e79696e05736f676f7503636f6d00001c0001
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 24
+	帧序列(Frame Number): 24
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038519 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 534695
+	帧长度(Frame Length): 142bytes (1136 bits)
+	捕获的长度(Capture Length): 142bytes (1136 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 128
+	标识(Identification): 0xe41d(58397)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 49
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 101.198.199.200
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 53
+	目的端口(Destination Port): 53509
+	数据包长度(Length): 108
+	数据(Data):
+		数据长度(Data Length): 100bytes
+		内容（content）: 0x48cb8180000100000001000006636f6e6669670670696e79696e05736f676f7503636f6d00001c0001c01a000600010000003c002f036e7331c01a08646e7361646d696e09736f676f752d696e63c0205eabc9b30000012c000000b400127500000000b4
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 25
+	帧序列(Frame Number): 25
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038520 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 534885
+	帧长度(Frame Length): 147bytes (1176 bits)
+	捕获的长度(Capture Length): 147bytes (1176 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 133
+	标识(Identification): 0xe41c(58396)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 49
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 101.198.199.200
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 53
+	目的端口(Destination Port): 55342
+	数据包长度(Length): 113
+	数据(Data):
+		数据长度(Data Length): 105bytes
+		内容（content）: 0x9b628180000100040000000006636f6e6669670670696e79696e05736f676f7503636f6d0000010001c00c000100010000003c00046df41723c00c000100010000003c00046df4177bc00c000100010000003c0004d39feb1ec00c000100010000003c0004d39feb64
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 26
+	帧序列(Frame Number): 26
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038520 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 535729
+	帧长度(Frame Length): 66bytes (528 bits)
+	捕获的长度(Capture Length): 66bytes (528 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 66 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 52
+	标识(Identification): 0x9a92(39570)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 211.159.235.100
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54005
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 1955141958
+	确认号(Acknowledgment Number): 0
+	头部长度(Header Length): 66 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Not Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 64240
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 27
+	帧序列(Frame Number): 27
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038521 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 635832
+	帧长度(Frame Length): 66bytes (528 bits)
+	捕获的长度(Capture Length): 66bytes (528 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 66 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 52
+	标识(Identification): 0x0(0)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 48
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 211.159.235.100
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54005
+	顺序号(Sequence Number): 3507822981
+	确认号(Acknowledgment Number): 1955141959
+	头部长度(Header Length): 66 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 29200
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 28
+	帧序列(Frame Number): 28
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038521 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 635972
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x9a93(39571)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 211.159.235.100
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54005
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 1955141959
+	确认号(Acknowledgment Number): 3507822982
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 515
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 29
+	帧序列(Frame Number): 29
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038522 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 636087
+	帧长度(Frame Length): 237bytes (1896 bits)
+	捕获的长度(Capture Length): 237bytes (1896 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 223
+	标识(Identification): 0x9a94(39572)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 211.159.235.100
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54005
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 1955141959
+	确认号(Acknowledgment Number): 3507822982
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 515
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 183bytes
+		内容（content）: 0x474554202f6170692f746f6f6c626f782f67657475726c2e7068703f683d434341344633313942354645373433443745303144303532313643413838463526763d392e352e302e3335313726723d303030305f736f676f7570696e79696e5f382e396320485454502f312e310d0a557365722d4167656e743a20534f474f555f555044415445520d0a486f73743a20636f6e6669672e70696e79696e2e736f676f752e636f6d0d0a4163636570743a202a2f2a0d0a0d0a
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 30
+	帧序列(Frame Number): 30
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038522 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 636150
+	帧长度(Frame Length): 142bytes (1136 bits)
+	捕获的长度(Capture Length): 142bytes (1136 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 2
+		最小时延(Delay): false
+		最大吞吐量(Through): true
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 128
+	标识(Identification): 0x0(0)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 148
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 114.114.114.114
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 53
+	目的端口(Destination Port): 53509
+	数据包长度(Length): 108
+	数据(Data):
+		数据长度(Data Length): 100bytes
+		内容（content）: 0x48cb8180000100000001000006636f6e6669670670696e79696e05736f676f7503636f6d00001c0001c01a0006000100000035002f036e7331c01a08646e7361646d696e09736f676f752d696e63c0205eabc9b30000012c000000b400127500000000b4
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 31
+	帧序列(Frame Number): 31
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038523 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 755081
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x5dbf(23999)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 48
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 211.159.235.100
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54005
+	顺序号(Sequence Number): 3507822982
+	确认号(Acknowledgment Number): 1955142142
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 119
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 32
+	帧序列(Frame Number): 32
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038523 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 755307
+	帧长度(Frame Length): 208bytes (1664 bits)
+	捕获的长度(Capture Length): 208bytes (1664 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 194
+	标识(Identification): 0x5dc0(24000)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 48
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 211.159.235.100
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54005
+	顺序号(Sequence Number): 3507822982
+	确认号(Acknowledgment Number): 1955142142
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 119
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 154bytes
+		内容（content）: 0x485454502f312e3120323030204f4b0d0a5365727665723a206e67696e780d0a446174653a204d6f6e2c203034204d617920323032302030343a35333a303820474d540d0a436f6e74656e742d547970653a206170706c69636174696f6e2f6f637465742d73747265616d0d0a436f6e74656e742d4c656e6774683a20300d0a436f6e6e656374696f6e3a206b6565702d616c6976650d0a0d0a
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 33
+	帧序列(Frame Number): 33
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038523 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 756767
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x9a95(39573)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 211.159.235.100
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54005
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 1955142142
+	确认号(Acknowledgment Number): 3507823136
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Set
+	窗口大小(Window size Value): 514
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 34
+	帧序列(Frame Number): 34
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038523 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 867195
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x5dc1(24001)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 48
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 211.159.235.100
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 54005
+	顺序号(Sequence Number): 3507823136
+	确认号(Acknowledgment Number): 1955142143
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Set
+	窗口大小(Window size Value): 119
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 35
+	帧序列(Frame Number): 35
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038524 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 867273
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x9a96(39574)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 211.159.235.100
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 54005
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 1955142143
+	确认号(Acknowledgment Number): 3507823137
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 514
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 36
+	帧序列(Frame Number): 36
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038524 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 957153
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): APP_REQUEST(1)
+	源MAC地址(Sender MAC address): 14:d1:69:da:d1:c9
+	源IP地址(Sender IP address): /192.168.43.1
+	目的MAC地址(Target MAC address): 00:00:00:00:00:00
+	目的IP地址(Target IP address): /192.168.43.99
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 37
+	帧序列(Frame Number): 37
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038525 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567988
+	时间戳——微秒(Timestamp Microsecond): 957174
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): ARP_REPLY(2)
+	源MAC地址(Sender MAC address): 70:c9:4e:06:37:2a
+	源IP地址(Sender IP address): /192.168.43.99
+	目的MAC地址(Target MAC address): 14:d1:69:da:d1:c9
+	目的IP地址(Target IP address): /192.168.43.1
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 38
+	帧序列(Frame Number): 38
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038525 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567989
+	时间戳——微秒(Timestamp Microsecond): 353763
+	帧长度(Frame Length): 74bytes (592 bits)
+	捕获的长度(Capture Length): 74bytes (592 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 60
+	标识(Identification): 0xa7a6(42918)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 64
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): ICMP(0x0001)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 192.34.56.23
+Internet Control Message Protocol
+	类型(Type): 8(Echo (ping) request)
+	代码(Code): 0
+	校验和(Checknum): 0x4c4d
+	标识(Identifier): 1(0x1)
+	序列号(Sequence number): 15(0xf)
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 39
+	帧序列(Frame Number): 39
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038525 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567989
+	时间戳——微秒(Timestamp Microsecond): 708411
+	帧长度(Frame Length): 74bytes (592 bits)
+	捕获的长度(Capture Length): 74bytes (592 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 2
+		最小时延(Delay): false
+		最大吞吐量(Through): true
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 60
+	标识(Identification): 0x3aa0(15008)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 41
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): ICMP(0x0001)
+	源IP地址(Source IPAdress): 192.34.56.23
+	目标IP地址(Destination IPAdress): 192.168.43.99
+Internet Control Message Protocol
+	类型(Type): 0(Echo (ping) reply)
+	代码(Code): 0
+	校验和(Checknum): 0x4c55
+	标识(Identifier): 1(0x1)
+	序列号(Sequence number): 15(0xf)
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 40
+	帧序列(Frame Number): 40
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038525 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567991
+	时间戳——微秒(Timestamp Microsecond): 455
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x977e(38782)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.212
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 53702
+	顺序号(Sequence Number): 3018316042
+	确认号(Acknowledgment Number): 314386227
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 363
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 41
+	帧序列(Frame Number): 41
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038526 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588567991
+	时间戳——微秒(Timestamp Microsecond): 510
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0x3ad4(15060)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.212
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 53702
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 314386227
+	确认号(Acknowledgment Number): 3018316043
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 510
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 42
+	帧序列(Frame Number): 42
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038526 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568012
+	时间戳——微秒(Timestamp Microsecond): 173370
+	帧长度(Frame Length): 81bytes (648 bits)
+	捕获的长度(Capture Length): 81bytes (648 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 67
+	标识(Identification): 0xaf4a(44874)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 183.232.93.21
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 4007
+	目的端口(Destination Port): 8000
+	数据包长度(Length): 47
+	数据(Data):
+		数据长度(Data Length): 39bytes
+		内容（content）: 0x023925005867d1a44e76a60200000001010100006982d2af06ea06160664d91b5d2979b3e15f03
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 43
+	帧序列(Frame Number): 43
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038526 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568012
+	时间戳——微秒(Timestamp Microsecond): 443088
+	帧长度(Frame Length): 89bytes (712 bits)
+	捕获的长度(Capture Length): 89bytes (712 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 75
+	标识(Identification): 0x0(0)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 52
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 183.232.93.21
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 8000
+	目的端口(Destination Port): 4007
+	数据包长度(Length): 55
+	数据(Data):
+		数据长度(Data Length): 47bytes
+		内容（content）: 0x023925005867d1a44e76a6000000efc1ce2134de2ee62b1350203e10d1e3251ee5b9005c5d8a72b1785285bd9c4a03
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 44
+	帧序列(Frame Number): 44
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038527 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568017
+	时间戳——微秒(Timestamp Microsecond): 543285
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): APP_REQUEST(1)
+	源MAC地址(Sender MAC address): 14:d1:69:da:d1:c9
+	源IP地址(Sender IP address): /192.168.43.1
+	目的MAC地址(Target MAC address): 00:00:00:00:00:00
+	目的IP地址(Target IP address): /192.168.43.99
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 45
+	帧序列(Frame Number): 45
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038527 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568017
+	时间戳——微秒(Timestamp Microsecond): 543304
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): ARP_REPLY(2)
+	源MAC地址(Sender MAC address): 70:c9:4e:06:37:2a
+	源IP地址(Sender IP address): /192.168.43.99
+	目的MAC地址(Target MAC address): 14:d1:69:da:d1:c9
+	目的IP地址(Target IP address): /192.168.43.1
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 46
+	帧序列(Frame Number): 46
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038527 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568018
+	时间戳——微秒(Timestamp Microsecond): 234453
+	帧长度(Frame Length): 55bytes (440 bits)
+	捕获的长度(Capture Length): 55bytes (440 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 41
+	标识(Identification): 0x3959(14681)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 128
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 192.168.43.99
+	目标IP地址(Destination IPAdress): 111.7.68.222
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 53331
+	目的端口(Destination Port): 80
+	顺序号(Sequence Number): 3565680685
+	确认号(Acknowledgment Number): 2494259868
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 513
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 1bytes
+		内容（content）: 0x00
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 47
+	帧序列(Frame Number): 47
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038528 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568018
+	时间戳——微秒(Timestamp Microsecond): 366150
+	帧长度(Frame Length): 54bytes (432 bits)
+	捕获的长度(Capture Length): 54bytes (432 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 54 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 40
+	标识(Identification): 0xffa8(65448)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 50
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): TCP(0x0006)
+	源IP地址(Source IPAdress): 111.7.68.222
+	目标IP地址(Destination IPAdress): 192.168.43.99
+TCP协议(Transmission Control Protocol)
+	源端口(Source Port): 80
+	目的端口(Destination Port): 53331
+	顺序号(Sequence Number): 2494259868
+	确认号(Acknowledgment Number): 3565680686
+	头部长度(Header Length): 54 bytes
+	保留位1(Retain1): false
+	保留位2(Retain2): false
+	紧急指针标志(Urgent): Not Set
+	确认字段标志(Acknowledgment): Set
+	推送标志(Push): Not Set
+	复位标志(Reset): Not Set
+	同步标志(SYN): Not Set
+	终止标志(FIN): Not Set
+	窗口大小(Window size Value): 131
+	紧急指针(Urgent Pointer): 0
+	数据(Data):
+		数据长度(Data Length): 0bytes
+		内容（content）: 0x
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 48
+	帧序列(Frame Number): 48
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038528 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568022
+	时间戳——微秒(Timestamp Microsecond): 290342
+	帧长度(Frame Length): 129bytes (1032 bits)
+	捕获的长度(Capture Length): 129bytes (1032 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 115
+	标识(Identification): 0x0(0)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 52
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 183.232.93.21
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 8000
+	目的端口(Destination Port): 4007
+	数据包长度(Length): 95
+	数据(Data):
+		数据长度(Data Length): 87bytes
+		内容（content）: 0x0239250081c632a44e76a6000000622ec5ff7510227b2b93b1e9589150217b9918f4471e50552e904f6c718d0d9a296d5081887e2da0020ebab080ab8adfe3aa4119a6b9872b887a1e1ce50f72d1a66ea2b3281e0fd603
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 49
+	帧序列(Frame Number): 49
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038529 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568029
+	时间戳——微秒(Timestamp Microsecond): 809909
+	帧长度(Frame Length): 129bytes (1032 bits)
+	捕获的长度(Capture Length): 129bytes (1032 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): IP(0x0800)
+IP协议(Interne Protocol Version 4)
+	版本号(Version): 4
+	报头长度(Header Length): 42 bytes
+	区分服务(Differentiated Services Field): 0x00
+		优先级(Priority): 0
+		最小时延(Delay): false
+		最大吞吐量(Through): false
+		最高可靠性(Reliability): false
+		最小费用(Cost): false
+	总长度(Total Length): 115
+	标识(Identification): 0x0(0)
+	标志(Flags): 
+	RF标志(Reserved bit): Not Set
+	DF标志(Don't Fragment): Not Set
+	MF标志(More Frament): Not Set
+	生存时间TTL(Time to Live): 52
+	片偏移(Frame Offset): 0
+	协议类型(Protocol): UDP(0x0011)
+	源IP地址(Source IPAdress): 183.232.93.21
+	目标IP地址(Destination IPAdress): 192.168.43.99
+UDP协议(User Datagram Protocol)
+	源端口(Source Port): 8000
+	目的端口(Destination Port): 4007
+	数据包长度(Length): 95
+	数据(Data):
+		数据长度(Data Length): 87bytes
+		内容（content）: 0x02392500815f1ca44e76a6000000e2cd49c68bdc37757d389952c8caf083eb03a59fd75ef7af2da9c11e6bc8481712a5e8276cb5b1302995a80c9a2da111f63a33e17c88eb2ebac2926d55a3df2899095824f753dc9903
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 50
+	帧序列(Frame Number): 50
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038529 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568034
+	时间戳——微秒(Timestamp Microsecond): 822825
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 14:d1:69:da:d1:c9
+	目的MAC地址(Destination): 70:c9:4e:06:37:2a
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): APP_REQUEST(1)
+	源MAC地址(Sender MAC address): 14:d1:69:da:d1:c9
+	源IP地址(Sender IP address): /192.168.43.1
+	目的MAC地址(Target MAC address): 00:00:00:00:00:00
+	目的IP地址(Target IP address): /192.168.43.99
+
+网卡信息（NetworkInterfance Infonation）
+	网卡序号（Interface id）: 3
+	名称（name）: \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+	描述（description）: Microsoft
+	网卡数据链路的名称（datalink name）: EN10MB
+	网卡数据链路的描述（datalink description）: Ethernet
+	网络接口地址(Adresses): \Device\NPF_{2193F7F5-31DA-4293-86F6-13489F4D8A1C}
+		网络接口的数量(Internet Interface Number):4
+		网络接口(Internet Interface)1
+			IPv6地址(IPv6 Adress): fe80:0:0:0:544d:fe66:3245:24b5
+		网络接口(Internet Interface)2
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:6d7f:d04b:5447:fb3d
+		网络接口(Internet Interface)3
+			IPv6地址(IPv6 Adress): 2409:896c:f00:14c8:544d:fe66:3245:24b5
+		网络接口(Internet Interface)4
+			IPv4地址(IPv4 Adress): 192.168.43.99
+			广播地址(broadcast): 255.255.255.255
+			网关(destination): null
+			子网掩码(subnet): 255.255.255.0
+以太网帧(Frame) 51
+	帧序列(Frame Number): 51
+	封装类型(Encapsulation type): Ethernet(EN10MB)
+	到达时间(Arrival Time): 2020-05-04 12:53:58.1588568038529 中国标准时间
+	时间戳——毫秒(Timestamp Millisecond): 1588568034
+	时间戳——微秒(Timestamp Microsecond): 822845
+	帧长度(Frame Length): 42bytes (336 bits)
+	捕获的长度(Capture Length): 42bytes (336 bits)
+以太网首部(Ethernet II)
+	源MAC地址(Source): 70:c9:4e:06:37:2a
+	目的MAC地址(Destination): 14:d1:69:da:d1:c9
+	类型(Type): ARP(0x0806)
+ARP协议(Address Resolution Protocol)
+	硬件类型(Hardware Type): ETHERNET
+	协议类型(Protocol type): IPv4(0x0800)
+	硬件类型字段长度(Hardware size): 6
+	协议类型字段长度(Protocol size): 4
+	操作(Opcode): ARP_REPLY(2)
+	源MAC地址(Sender MAC address): 70:c9:4e:06:37:2a
+	源IP地址(Sender IP address): /192.168.43.99
+	目的MAC地址(Target MAC address): 14:d1:69:da:d1:c9
+	目的IP地址(Target IP address): /192.168.43.1
+
